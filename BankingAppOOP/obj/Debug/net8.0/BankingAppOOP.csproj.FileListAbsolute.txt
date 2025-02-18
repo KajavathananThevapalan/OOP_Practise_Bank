@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\obj\Debug\net8.0\BankingAppOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\obj\Debug\net8.0\BankingAppOOP.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\obj\Debug\net8.0\BankingAppOOP.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\obj\Debug\net8.0\BankingAppOOP.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\bin\Debug\net8.0\BankingAppOOP.exe
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\bin\Debug\net8.0\BankingAppOOP.deps.json
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\bin\Debug\net8.0\BankingAppOOP.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\bin\Debug\net8.0\BankingAppOOP.dll
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\bin\Debug\net8.0\BankingAppOOP.pdb
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\obj\Debug\net8.0\BankingAppOOP.dll
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\obj\Debug\net8.0\refint\BankingAppOOP.dll
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\obj\Debug\net8.0\BankingAppOOP.pdb
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\obj\Debug\net8.0\BankingAppOOP.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\OOP\OOP_Practises\BankingAppOOP\BankingAppOOP\obj\Debug\net8.0\ref\BankingAppOOP.dll

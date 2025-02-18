@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\OOP\\OOP_Practises\\BankingAppOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B2A4D6-3EC3-4841-B205-839128F66C73}|BankingAppOOP\\BankingAppOOP.csproj|c:\\users\\user\\onedrive\\desktop\\oop\\oop_practises\\bankingappoop\\bankingappoop\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B2A4D6-3EC3-4841-B205-839128F66C73}|BankingAppOOP\\BankingAppOOP.csproj|solutionrelative:bankingappoop\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B2A4D6-3EC3-4841-B205-839128F66C73}|BankingAppOOP\\BankingAppOOP.csproj|c:\\users\\user\\onedrive\\desktop\\oop\\oop_practises\\bankingappoop\\bankingappoop\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B2A4D6-3EC3-4841-B205-839128F66C73}|BankingAppOOP\\BankingAppOOP.csproj|solutionrelative:bankingappoop\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B2A4D6-3EC3-4841-B205-839128F66C73}|BankingAppOOP\\BankingAppOOP.csproj|c:\\users\\user\\onedrive\\desktop\\oop\\oop_practises\\bankingappoop\\bankingappoop\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B2A4D6-3EC3-4841-B205-839128F66C73}|BankingAppOOP\\BankingAppOOP.csproj|solutionrelative:bankingappoop\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B2A4D6-3EC3-4841-B205-839128F66C73}|BankingAppOOP\\BankingAppOOP.csproj|c:\\users\\user\\onedrive\\desktop\\oop\\oop_practises\\bankingappoop\\bankingappoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B2A4D6-3EC3-4841-B205-839128F66C73}|BankingAppOOP\\BankingAppOOP.csproj|solutionrelative:bankingappoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\OOP\\OOP_Practises\\BankingAppOOP\\BankingAppOOP\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankingAppOOP\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\OOP\\OOP_Practises\\BankingAppOOP\\BankingAppOOP\\CurrentAccount.cs",
+              "RelativeToolTip": "BankingAppOOP\\CurrentAccount.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:06:55.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\OOP\\OOP_Practises\\BankingAppOOP\\BankingAppOOP\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "BankingAppOOP\\SavingAccount.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\OOP\\OOP_Practises\\BankingAppOOP\\BankingAppOOP\\SavingAccount.cs",
+              "RelativeToolTip": "BankingAppOOP\\SavingAccount.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:05:11.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\OOP\\OOP_Practises\\BankingAppOOP\\BankingAppOOP\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankingAppOOP\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\OOP\\OOP_Practises\\BankingAppOOP\\BankingAppOOP\\BankAccount.cs",
+              "RelativeToolTip": "BankingAppOOP\\BankAccount.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:03:55.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\OOP\\OOP_Practises\\BankingAppOOP\\BankingAppOOP\\Program.cs",
+              "RelativeDocumentMoniker": "BankingAppOOP\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\OOP\\OOP_Practises\\BankingAppOOP\\BankingAppOOP\\Program.cs",
+              "RelativeToolTip": "BankingAppOOP\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:03:28.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
